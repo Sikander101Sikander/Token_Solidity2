@@ -1,1 +1,1 @@
-# Token_Solidity2
+# Token_Solidity_project_assesment
